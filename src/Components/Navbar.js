@@ -8,6 +8,7 @@ import {
 import "../Styles/Navbar.css";
 import { Link } from "react-router-dom";
 import { toast } from "react-toastify";
+import Logo from "../Assets/logo02.svg";
 
 function Navbar() {
   const [nav, setNav] = useState(false);
@@ -29,6 +30,7 @@ function Navbar() {
 
   return (
     <div className="navbar-section">
+       <img src={Logo} alt="Logo image" className="logo02" />
       <h1 className="navbar-title">
         <Link to="/">
           i-Smile Dental clinic <span className="navbar-sign">+</span>

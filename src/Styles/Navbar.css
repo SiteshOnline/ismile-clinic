@@ -6,6 +6,11 @@
     height: 80px;
     background-color: white;
 }
+.logo02{
+    height: 75px;
+    width: 132px;
+    
+}
 .navbar-title a {
     color: #1A8EFD;
     letter-spacing: .6px;
