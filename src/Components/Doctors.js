@@ -73,7 +73,7 @@ function Doctors() {
         />
         <DoctorCard
           img={profile4}
-          name="Dr. Sauvik Singha"
+          name="Dr. Madhusudan"
           title="CARE HOSPITAL"
           stars="4.8"
           reviews="500"
