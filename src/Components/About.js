@@ -15,9 +15,16 @@ function About() {
           <span>About Us</span>
         </h3>
         <p className="about-description">
-        ‘i SMILE DENTAL CLINIC – Laser & Implant Center, provide state of the art Dental services at par with the international standards to the people of Bhubaneswar, Odisha.’
-        <br />
-        We strongly believe that we aren’t treating just a set of teeth but a complete person who has her own personality, priorities and expectations. With this objective in mind, we partner with our patients in devising an optimum treatment plan designed to achieve form, function and aesthetics with maximum value for your time and money.
+          ‘i SMILE DENTAL CLINIC – Laser & Implant Center, provide state of the
+          art Dental services at par with the international standards to the
+          people of Bhubaneswar, Odisha.’
+          <br />
+          We strongly believe that we aren’t treating just a set of teeth but a
+          complete person who has her own personality, priorities and
+          expectations. With this objective in mind, we partner with our
+          patients in devising an optimum treatment plan designed to achieve
+          form, function and aesthetics with maximum value for your time and
+          money.
         </p>
 
         <h4 className="about-text-title">Your Solutions</h4>
